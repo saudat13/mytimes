@@ -2,5 +2,8 @@ header {
 display: flex;
 font-family: Verdana;
 font-size: 14px;
-font-weight: bold; 
+font-weight: bold;
+align-items: center;
+position: fixed;
+border-bottom: 1px solid black;
 }
