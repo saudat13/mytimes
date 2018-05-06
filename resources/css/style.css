@@ -20,3 +20,14 @@ z-index: 1;
   height: 60px;
   margin-right: 12px;
 }
+
+.logo {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+  padding-left: 30px;
+}
+
+header nav {
+    padding-right: 40px;
+  }
