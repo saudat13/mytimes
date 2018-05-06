@@ -6,4 +6,17 @@ font-weight: bold;
 align-items: center;
 position: fixed;
 border-bottom: 1px solid black;
+width: 100%;
+height: 80px;
+z-index: 1;
+}
+
+.logo span {
+  color: mediumaquamarine;
+}
+
+.logo img {
+  width: 70px;
+  height: 60px;
+  margin-right: 12px;
 }
