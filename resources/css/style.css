@@ -40,3 +40,9 @@ header nav {
   }
 
   /* Main Content Container */
+
+  .content {
+    display: flex;
+    width: 1232px;
+    margin: 0 auto 78px auto;
+    padding-top: 116px;
