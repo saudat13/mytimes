@@ -1,3 +1,5 @@
+/* Header */
+
 header {
 display: flex;
 font-family: Verdana;
@@ -26,8 +28,15 @@ z-index: 1;
   align-items: center;
   flex-grow: 1;
   padding-left: 30px;
+  border: solid thin;
 }
 
 header nav {
-    padding-right: 40px;
+    padding-right: 50px;
   }
+
+  a {
+    color: black;
+  }
+
+  /* Main Content Container */
