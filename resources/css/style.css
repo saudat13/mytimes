@@ -64,3 +64,23 @@ header nav {
 .column.large {
   width: 630px;
 }
+
+.lead-story .image-content {
+  width: 630px;
+  margin-top: 0;
+  text-align: left;
+  font-size: 40px;
+  background-image:
+}
+
+.lead-story span {
+  margin-right: 20px;
+}
+
+.fall-cancelled.image-content {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
+}
+
+.pop-culture.image-content {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+}
